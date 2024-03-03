@@ -360,6 +360,7 @@ slider-component.slider-component-full-width {
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 10px;
 }
 
 .slider-button:not([disabled]):hover {
